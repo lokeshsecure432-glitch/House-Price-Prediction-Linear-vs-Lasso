@@ -11,7 +11,7 @@ This project predicts house prices using Linear and Lasso Regression models.
 Lasso eliminated 11 out of 34 features, yet both models achieved similar Adjusted R² scores.
 ### Feature Importance
 
-![Feature Importance](feature_importance(1).png)
+![Feature Importance](feature_importance (1).png)
 
 
 ##  Conclusion
